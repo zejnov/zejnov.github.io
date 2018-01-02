@@ -6,7 +6,6 @@
 @import url('https://fonts.googleapis.com/css?family=Overpass');
 @import url('https://fonts.googleapis.com/css?family=Arsenal');
 
-
 * {
     box-sizing: border-box;
 }
@@ -40,7 +39,6 @@ header > nav ul > li > a {
 header > nav ul > li > a:hover {
     background-color: slategrey;
 }
-
 
 /*----------------------HEADER-ROW------------------------*/
 
