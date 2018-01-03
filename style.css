@@ -11,7 +11,7 @@
 }
 body {
     background-color: #4f4848;
-    background: url("http://www.cmentarolog.szczecin.pl/wp-content/uploads/2014/09/t%C5%82o-strony.jpg") top center fixed;
+    background: url("./data/add/code2.jpg") top center fixed;
 }
 
 /*-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-*/
@@ -72,7 +72,7 @@ header > nav ul > li > a:hover {
 }
 
 .slogan h1 {
-    font-size: 38px;
+    font-size: 4rem;
     padding: 15px;
 }
 .slogan h2 {
@@ -93,7 +93,7 @@ header > nav ul > li > a:hover {
 		from(#a3a3a3),
 		color-stop(0.50, #3b3b3b),
 		color-stop(0.50, #242424),
-		to(#000000));
+		to(#c8e90b));
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
 	border-radius: 10px;
@@ -480,7 +480,7 @@ header > nav ul > li > a, .about, .technologies h1, .technologies h3, .featured 
     background-position: center;
 }
 .slogan h1, .niceButton:hover {
-    color: orange;
+    color: rgb(0, 160, 255);
 }
 
 /*--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!--*/
